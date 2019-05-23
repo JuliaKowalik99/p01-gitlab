@@ -5,6 +5,7 @@ echo ("<br> Jestem programem 01");
 echo ("<br> Test 11111");
 echo ("<br> TEST 2222");
 echo ("<br> Dalsza czesc programu");
+echo ("<br> Dalsza czesc programu 2222 z GitHuba");
 ?>
 
 
